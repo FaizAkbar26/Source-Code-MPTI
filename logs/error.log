@@ -1,0 +1,2 @@
+Error [8192]: Constant FILTER_SANITIZE_STRING is deprecated in /storage/ssd5/116/22372116/public_html/admin/placed_orders.php on line 37[2024-06-30 17:25:58] Error: Constant FILTER_SANITIZE_STRING is deprecated in /storage/ssd5/116/22372116/public_html/admin/update_product.php on line 52
+Error [2]: Undefined array key "admin_id" in /storage/ssd5/116/22372116/public_html/admin/placed_orders.php on line 26
